@@ -285,7 +285,7 @@ function Login() {
         </div>
 
         <div className="welcome-screen-container">
-          <img src="../../public/kamehouse.jpeg" alt="" />
+          <img src="./kamehouse.jpeg" alt="" />
         </div>
       </div>
     </>
