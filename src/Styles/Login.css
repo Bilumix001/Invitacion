@@ -129,7 +129,7 @@ body {
 @media screen and (max-width: 815px) {
   
   body{
-    background-image: url('./kamehouse.jpeg');
+    background-image: url("./kamehouse.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
